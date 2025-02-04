@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Brody Wells",
+      "downloadURL": "https://www.dropbox.com/scl/fi/8r3uewv2vy3uhl7k4bo30/uYouPlus-19.08.2-3.0.3.ipa?rlkey=laajjnhofzdondjbn9vwm516w&st=0k200x4p&dl=1",
+      "iconURL": "https://i.imgur.com/lSQjkq7.jpeg",
+      "localizedDescription": "Not sure first trial upload",
+      "name": "YouTube",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 126194273,
+      "subtitle": "Modded Youtube",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Source Name",
+  "news": [],
+  "userInfo": {}
+}
